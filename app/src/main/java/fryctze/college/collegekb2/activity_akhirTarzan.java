@@ -1,14 +1,14 @@
 package fryctze.college.collegekb2;
 
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
 
-public class GeneratingActivity extends AppCompatActivity {
+import androidx.appcompat.app.AppCompatActivity;
+
+public class activity_akhirTarzan extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_generating);
+        setContentView(R.layout.activity_akhir_tarzan);
     }
 }

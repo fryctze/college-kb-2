@@ -3,7 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/layout/activity_akhir_cinderella.xml" value="0.19583333333333333" />
+        <entry key="app/src/main/res/layout/activity_akhir_superman.xml" value="0.19583333333333333" />
+        <entry key="app/src/main/res/layout/activity_akhir_tarzan.xml" value="0.19583333333333333" />
         <entry key="app/src/main/res/layout/activity_credit.xml" value="0.1953125" />
+        <entry key="app/src/main/res/layout/activity_ganti_kata_cinderella.xml" value="0.19583333333333333" />
+        <entry key="app/src/main/res/layout/activity_ganti_kata_superman.xml" value="0.19583333333333333" />
+        <entry key="app/src/main/res/layout/activity_ganti_kata_tarzan.xml" value="0.19583333333333333" />
         <entry key="app/src/main/res/layout/activity_generating.xml" value="0.1953125" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.1953125" />
       </map>

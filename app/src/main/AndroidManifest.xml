@@ -9,11 +9,15 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.CollegeKB2">
+
+        <activity android:name=".activity_akhirCinderella"/>
+        <activity android:name=".activity_akhirSuperman"/>
+        <activity android:name=".activity_akhirTarzan"/>
+        <activity android:name=".gantiKataCinderella"/>
+        <activity android:name=".gantiKataSuperman"/>
+        <activity android:name=".gantiKataTarzan"/>
         <activity
             android:name=".CreditActivity"
-            android:exported="false" />
-        <activity
-            android:name=".GeneratingActivity"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
