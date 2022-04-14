@@ -9,9 +9,16 @@
     tools:context=".activity_akhirTarzan">
 
     <TextView
+        android:id="@+id/tv_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="asd"
+        android:textSize="32sp" />
+    <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text=" "
+        tools:text="sadjfhskdlfh lskdjfh lskdjfh laskdjfh lskadjfh lskajdfh lskadjfh lskajdfh lskadjfh lksdjfh lkjsdhf lkjsdahf kjsdhf lkjsadhf lkjsdf ksdfbn kewu iewuewkjrewkjrew rbmnb ,smnfbcbvcvjhbskdjfsbfnsdfblskjdfskdnmfslkjf jdf ksdjn skdj nslk jsdk jfsd kjfnsdl kjnsdfl kjnsdf"
         android:id="@+id/texttarzan"/>
 
     <Button

@@ -9,20 +9,27 @@
     tools:context=".activity_akhirSuperman">
 
     <TextView
+        android:id="@+id/tv_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="asd"
+        android:textSize="32sp" />
+    <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text=" "
+        tools:text="sadjfhskdlfh lskdjfh lskdjfh laskdjfh lskadjfh lskajdfh lskadjfh lskajdfh lskadjfh lksdjfh lkjsdhf lkjsdahf kjsdhf lkjsadhf lkjsdf ksdfbn kewu iewuewkjrewkjrew rbmnb ,smnfbcbvcvjhbskdjfsbfnsdfblskjdfskdnmfslkjf jdf ksdjn skdj nslk jsdk jfsd kjfnsdl kjnsdfl kjnsdf"
         android:id="@+id/textsuperman"/>
 
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/buttonsuperman"
+        android:id="@+id/btn_playagain"
         android:text="Play Again"/>
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/buttonsuperman"
+        android:id="@+id/btn_home"
         android:text="Home"/>
 
 

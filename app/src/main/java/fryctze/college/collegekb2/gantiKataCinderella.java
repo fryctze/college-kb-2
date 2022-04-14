@@ -13,7 +13,6 @@ import java.util.Scanner;
 public class gantiKataCinderella extends AppCompatActivity {
 
     private static final String TAG = "hehe";
-    private static final int REQ_CODE = 123;
 
     EditText et0, et1, et2, et3, et4, et5, et6, et7, et8;
 
