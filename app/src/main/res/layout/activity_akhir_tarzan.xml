@@ -25,11 +25,13 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/buttontarzan1"
+        android:onClick="clickPlayAgainTarzan"
         android:text="Play Again"/>
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/buttontarzan2"
+        android:onClick="clickHomeFromTarzan"
         android:text="Home"/>
 
 

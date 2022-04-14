@@ -25,11 +25,13 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/btn_playagain"
+        android:onClick="clickPlaySupermanAgain"
         android:text="Play Again"/>
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/btn_home"
+        android:onClick="clickHomeFromSuperman"
         android:text="Home"/>
 
 
