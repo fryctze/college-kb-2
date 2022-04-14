@@ -1,0 +1,13 @@
+Dongeng Cinderella
+=
+Cinderela adalah seorang gadis yang cantik dan baik hati. Ia memiliki [1. angka] saudara tiri. Setiap hari Cinderella bangun pukul [2. jam] dan mulai membersihkan rumah. Pekerjaan yang paling ia sukai adalah [3. kata kerja]
+=
+Suatu hari ada undangan pesta dari [4. profesi/jabatan/nama orang] yang ingin mencari calon istri. Semua gadis ingin menghadiri undangan pesta tersebut. Tidak terkecuali Cinderela. Namun saudara dan ibu tiri melarang Cinderela untuk hadir di pesta tersebut.
+=
+Pada hari pesta tersebut, Cinderella bertemu dengan [5. nama orang] yang mampu mengubah buah labu menjadi [6. alat transportasi] yang digunakan Cinderella untuk pergi ke pesta. Dia juga mengubah Cinderela menjadi cantik dengan mengenakan [7. jenis pakaian]. [5. nama orang] mengatakan bahwa tepat sebelum pukul 12 malam, Cinderella harus segera meninggalkan pesta karena dia akan segera berubah menjadi gadis biasa lagi.
+=
+Sesampai di pesta, semua orang terpana melihat Cinderella. Tak terkecuali sang [4. profesi/jabatan/nama orang]. Diajaknya Cinderella bermain [8. nama game]. Tepat sebelum pukul 12 malam, Cinderella mohon pamit kepada sang [4. profesi/jabatan/nama orang] untuk pulang. Cinderella tidak diizinkan pulang karena sang [4. profesi/jabatan/nama orang] selalu kalah dalam permainan [8. nama game]. Namun Cinderella bersikeras meninggalkan tempat dan pulang ke rumah. 
+=
+Setibanya di rumah, Cinderella baru sadar bahwa seharusnya dia meninggalkan sepatunya di pesta. Sang [4. profesi/jabatan/nama orang] juga bingung karena tidak ada sepatu yang ditemukan agar dia bisa menemukan kembali Cinderella. Tak kurang akal, Sang [4. profesi/jabatan/nama orang] segera memasang sayembara, barang siapa bisa mengalahkan dirinya bermain [8. nama game], maka akan dipilih menjadi istrinya. 
+=
+Ternyata, hanya ada 1 orang yang dapat mengalahkan [4. profesi/jabatan/nama orang] dalam bermain [8. nama game], yaitu [0. Nama]. Dialah yang akhirnya menjadi istri dari Sang [4. profesi/jabatan/nama orang] dan hidup berbahagia selamanya.
